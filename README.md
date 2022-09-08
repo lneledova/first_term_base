@@ -6,6 +6,7 @@
 - [Windows](https://code.visualstudio.com/docs/cpp/config-wsl)
 - [Linux](https://code.visualstudio.com/docs/cpp/config-linux)
 - [MacOS](https://code.visualstudio.com/docs/cpp/config-clang-mac)
+- [Как настроить таб равный двум пробелам](https://stackoverflow.com/questions/29972396/how-can-i-customize-the-tab-to-space-conversion-factor)
 
 ### Кодстайл:
 Мы используем Google Codestyle: [подробнее про него](https://google.github.io/styleguide/cppguide.html) 
