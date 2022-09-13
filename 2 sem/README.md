@@ -199,42 +199,6 @@ int main() {
 }
 ```
 
-J. Сумма цифр числа
-```
-#include <iostream>
-
-int main() {
-  int value;
-  std::cin >> value;
-  int sum = 0;
-  do {
-    sum += value % 10;
-    value /= 10;
-  } while (value > 0);
-  std::cout << sum;
-  return 0;
-}
-```
-
- for: H. Четные числа
- ```
-#include <iostream>
-
-int main() {
-  int size;
-  std::cin >> size;
-
-  int sum = 0;
-  for (int i = 0; i < size; ++i) {
-    int num;
-    std::cin >> num;
-    sum += num;
-  }
-
-  std::cout << sum;
-  return 0;
-}
- ```
 
 [ура, второй контест](https://contest.yandex.ru/contest/40251/enter/)
 
