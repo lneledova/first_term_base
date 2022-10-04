@@ -188,3 +188,4 @@ function simpleCountingSort(A: int[n]):
 ```
 Первые два цикла занимают $O(k)$ и $O(n)$ соответственно по времени, а последний $O(n + k)$ итого получается линейная сложность
  
+[5 контест](https://contest.yandex.ru/contest/40878/standings)
