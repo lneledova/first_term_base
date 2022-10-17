@@ -20,3 +20,20 @@
 - Имена переменных и полей класса: snake_case
 - Имена приватных полей класса должны завершаться "_" (private_field_, size_)
 - Имена пространств имен: snake_case
+
+## Задачки
+### Домашки
+
+- [Первое задание](https://contest.yandex.ru/contest/41104/enter)
+
+
+### Семинарские контесты:
+- [Первый контест](https://contest.yandex.ru/contest/39872/enter/)
+- [Второй контест](https://contest.yandex.ru/contest/40251/enter/)
+- [Третий контест](https://contest.yandex.ru/contest/40457/problems/)
+- [Четвёртый контест](https://contest.yandex.ru/contest/40711/standings)
+- [Пятый контест](https://contest.yandex.ru/contest/40878/standings)
+- А шестого контеста нет
+- [Седьмой контест](https://contest.yandex.ru/contest/41401/problems/)
+
+
