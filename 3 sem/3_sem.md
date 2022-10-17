@@ -142,3 +142,5 @@ Werror, Wall, Wextra, а также pedantic
 
 - LeakSanitizer - интегрирован в AddressSanitizer занимается памятью в куче. \
 `fsanitize=leak` либо `c++ -fsanitize=address -g memory-leak.c ; ASAN_OPTIONS=detect_leaks=1 ./a.out`
+
+[Третий контест](https://contest.yandex.ru/contest/40457/problems/)
