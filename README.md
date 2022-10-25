@@ -5,6 +5,8 @@
 ### Домашки
 
 - [Первое задание](https://contest.yandex.ru/contest/41104/enter)
+Задачи на ревью в гитлабе: N, Q, R, S.
+[инструкция](https://gitlab.com/lneledova/first_term_base_c/-/blob/main/8%20sem/git_instruction.md)
 
 
 ### Семинарские контесты:
