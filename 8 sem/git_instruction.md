@@ -97,3 +97,7 @@ git push origin solutions
 
 ![](/img/assign.jpeg)
 
+## 6. Как посмотреть граф
+```
+git log --all --graph
+```
