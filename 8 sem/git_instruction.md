@@ -4,6 +4,11 @@
 ```
 sudo apt-get install git
 ```
+Если не устанавливается git, то выполните:
+```
+sudo apt-get update
+```
+И попробуйте снова установить git.
 Установите свое имя и почту
 ```
 git config --global user.name ”<your_name>”
